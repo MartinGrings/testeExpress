@@ -1,6 +1,6 @@
 # testeExpress
 
-  Escolher uma pasta e digitar: 
+  Em um computador com git e node instalados, através do terminal escolha uma pasta e digite:
   
   git clone https://github.com/MartinGrings/testeExpress
   
